@@ -1,0 +1,14 @@
+day = 1, month = 1, year = 2023, weekday = Sunday
+day = 2, month = 2, year = 2023, weekday = Monday
+day = 3, month = 3, year = 2023, weekday = Tuesday
+day = 4, month = 4, year = 2023, weekday = Wednesday
+day = 5, month = 5, year = 2023, weekday = Thursday
+day = 6, month = 6, year = 2023, weekday = Friday
+day = 7, month = 7, year = 2023, weekday = Saturday
+day = 8, month = 8, year = 2023, weekday = Sunday
+day = 9, month = 9, year = 2023, weekday = Monday
+day = 10, month = 10, year = 2023, weekday = Tuesday
+day = 11, month = 11, year = 2023, weekday = Wednesday
+day = 12, month = 12, year = 2023, weekday = Thursday
+day = 1, month = 1, year = 2023, weekday = Saturday
+day = 2, month = 2, year = 2023, weekday = Sunday
